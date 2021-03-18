@@ -1,0 +1,18 @@
+{
+  "name": "itly-error-reproduction",
+  "description": "itly-error-reproduction",
+  "main": "dist/lib/index.js",
+  "scripts": {
+    "init": "itly init",
+    "verify": "itly verify",
+    "pull": "itly pull"
+  },
+  "private": true,
+  "dependencies": {
+    "@itly/sdk": "^1.6.0"
+  },
+  "optionalDependencies": {},
+  "devDependencies": {
+    "@itly/itly": "^1.1.3"
+  }
+}
